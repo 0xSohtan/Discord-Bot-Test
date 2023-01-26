@@ -1,1 +1,1 @@
-web: bode index.js
+web: node index.js
